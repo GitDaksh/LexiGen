@@ -1,4 +1,4 @@
-# Code Compiler Project
+# LexiGen Code Compiler
 
 ## Overview
 
@@ -14,7 +14,7 @@ This project is a code compiler built with a backend component hosted on Netlify
 
 You can view the live demo of the project [here](https://your-live-demo-url.netlify.app).
 
-![Project Screenshot]()
+![Project Screenshot](https://github.com/GitDaksh/LexiGen/blob/main/code-compiler/lexigen.png)
 
 ## Installation
 
