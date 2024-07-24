@@ -23,8 +23,8 @@ To get started with this project, follow the steps below:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/your-repository.git
-   cd your-repository
+   git clone https://github.com/GitDaksh/LexiGen.git
+   cd LexiGen
 
 2. **Install Dependencies**
 
@@ -102,10 +102,3 @@ Contributions are welcome! Please follow the steps below to contribute:
 ## Acknowledgments
 
 I would like to thank the [GeeksforGeeks](https://www.geeksforgeeks.org/) website for the helpful resources and tutorials that guided me through the development process of this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-Make sure to replace placeholders like `https://your-live-demo-url.netlify.app`, `path/to/your/image.png`, and `https://github.com/your-username/your-repository.git` with actual URLs and file paths relevant to your project.
