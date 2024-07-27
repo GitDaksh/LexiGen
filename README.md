@@ -58,7 +58,7 @@ To get started with this project, follow the steps below:
    yarn start
    ```
 
-   The application should be running at `http://localhost:3000` for the frontend and `http://localhost:5000` for the backend.
+   The application should be running at `http://localhost:3000` for the frontend and `http://localhost:8000` for the backend.
 
 ## Deployment
 
